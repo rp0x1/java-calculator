@@ -29,7 +29,7 @@ public class Terminal {
                 System.out.print("Enter second number: ");
                 int sna = Integer.parseInt(Terminal.nextLine());
 
-                // Add the values together
+                // Add the value pair
                 Methods.Add(fna, sna);
                 break;
 
@@ -40,7 +40,7 @@ public class Terminal {
                 System.out.print("Enter second number: ");
                 int sns = Integer.parseInt(Terminal.nextLine());
 
-                // Add the values together
+                // Substract the value pair
                 Methods.Sub(fns, sns);
                 break;
 
@@ -51,7 +51,7 @@ public class Terminal {
                 System.out.print("Enter second number: ");
                 int snd = Integer.parseInt(Terminal.nextLine());
 
-                // Add the values together
+                // Divide the value pair
                 Methods.Div(fnd, snd);
                 break;
 
@@ -62,7 +62,7 @@ public class Terminal {
                 System.out.print("Enter second number: ");
                 int snm = Integer.parseInt(Terminal.nextLine());
 
-                // Add the values together
+                // Multipy the value pair
                 Methods.Mul(fnm, snm);
                 break;
 
