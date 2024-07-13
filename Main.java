@@ -1,4 +1,3 @@
-
 // Imports
 import opts.Methods;
 import terminal.Terminal;
