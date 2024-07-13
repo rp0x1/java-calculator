@@ -19,7 +19,7 @@ public class Terminal {
         // Read the input & handle input
         String inp = Terminal.nextLine();
        
-       // Switch the input & check which operant has been passed in, and handle the request
+        // Switch the input & check which operant has been passed in, and handle the request
         switch(inp.toLowerCase()) 
         {
             case "add":
